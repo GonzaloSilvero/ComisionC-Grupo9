@@ -1,0 +1,8 @@
+Nombre: Damián Noble
+Usuario de GitHub: DamiNoble
+Descripción: Noble Damian Agrego mi información personal como integrante del grupo 9.
+Edad: 32
+Hijos: 2
+Estado civil: soltero 
+Ocupación: Docente
+
